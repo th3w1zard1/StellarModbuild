@@ -1,16 +1,18 @@
 *.tpc
 *.tga
-*.bif
-*.rim
 *.wav
-mods galore\! testing environment/K1 Manual Install/lips/
+*.rim
+*.bif
+mods galore\! testing environment/K1 Manual Install/data
+mods galore\! testing environment/K1 Manual Install/launcher
+mods galore\! testing environment/K1 Manual Install/lips
+mods galore\! testing environment/K1 Manual Install/miles
 mods galore\! testing environment/K1 Manual Install/utils
 mods galore\! testing environment/K1 Manual Install/TexturePacks
 mods galore\! testing environment/K1 Manual Install/swupdate.exe
 mods galore\! testing environment/K1 Manual Install/swkotor.ini
 mods galore\! testing environment/K1 Manual Install/swkotor.exe
 mods galore\! testing environment/K1 Manual Install/swconfig.exe
-mods galore\! testing environment/K1 Manual Install/streamwaves
 mods galore\! testing environment/K1 Manual Install/saves
 mods galore\! testing environment/K1 Manual Install/rims
 mods galore\! testing environment/K1 Manual Install/data
@@ -78,17 +80,7 @@ mods galore\! testing environment/K1 Manual Install/movies/01g.bik
 mods galore\! testing environment/K1 Manual Install/movies/01f.bik
 mods galore\! testing environment/K1 Manual Install/movies/01c.bik
 mods galore\! testing environment/K1 Manual Install/movies/01a.bik
-mods galore\! testing environment/K1 Manual Install/miles
-mods galore\! testing environment/K1 Manual Install/launcher/swloader.bmp
-mods galore\! testing environment/K1 Manual Install/launcher/swlauncher.bmp
-mods galore\! testing environment/K1 Manual Install/launcher/mouseover.bmp
-mods galore\! testing environment/K1 Manual Install/launcher/mousenormal.bmp
-mods galore\! testing environment/K1 Manual Install/launcher/mousedown.bmp
-mods galore\! testing environment/K1 Manual Install/launcher/launcher.ini
-mods galore\! testing environment/K1 Manual Install/launcher/click.wav
-mods galore\! testing environment/K1 Manual Install/launcher/background.wav
 mods galore\! testing environment/K1 Manual Install/dialog.tlk
-mods galore\! testing environment/K1 Manual Install/data
 mods galore\! testing environment/K1 Manual Install/chitin.key
 mods galore\! testing environment/K1 Manual Install/binkw32.dll
 mods galore\! testing environment/K1 Manual Install/32370_install.vdf
