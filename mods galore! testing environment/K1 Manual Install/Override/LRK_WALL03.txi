@@ -1,0 +1,4 @@
+bumpyshinytexture CM_rakata
+bumpmaptexture LRK_wall03b
+
+

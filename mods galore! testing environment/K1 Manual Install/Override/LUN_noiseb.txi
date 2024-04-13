@@ -1,0 +1,26 @@
+isbumpmap 1
+bumpmapscaling 5
+
+proceduretype water
+channelscale 4
+0.2
+0.2
+0.2
+30.2
+
+channeltranslate 4
+0.5
+0.7
+0.6
+0.5
+
+distort 2
+arturowidth 15
+arturoheight 15
+distortionamplitude 1
+speed 2
+
+defaultheight 14
+defaultwidth 32
+
+

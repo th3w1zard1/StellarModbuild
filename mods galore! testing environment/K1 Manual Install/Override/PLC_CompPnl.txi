@@ -1,0 +1,9 @@
+envmaptexture CM_baremetal
+proceduretype cycle
+defaultwidth 512
+defaultheight 512
+numx 3
+numy 3
+fps 12
+#blending additive
+#decal 1

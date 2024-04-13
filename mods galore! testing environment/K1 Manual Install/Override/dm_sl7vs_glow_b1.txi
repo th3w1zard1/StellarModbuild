@@ -1,0 +1,8 @@
+proceduretype cycle
+defaultwidth 256
+defaultheight 256
+numx 2
+numy 2
+fps 25
+decal 1
+envmaptexture cm_bright

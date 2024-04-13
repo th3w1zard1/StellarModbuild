@@ -1,0 +1,2 @@
+bumpyshinytexture CM_LSFAD 
+bumpmaptexture LSF_wall20BMP

@@ -1,0 +1,4 @@
+bumpyshinytexture CM_UPMAN
+bumpmaptexture LMA_wall16BMP
+downsamplemax 0
+mipmap 0

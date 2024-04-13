@@ -1,0 +1,45 @@
+
+More Demolitions skill will add more damage to grenades
+However, grenades DC save is not changed
+Nor is their default damage changed directly. 
+
+
+Frag radius 4 to 5
+20+ (DemoSkillRank divided by 2) + DemoSkillRank = total dmg 
+then (20 + Demo/2 + Demo) = total
+
+example i have 8 demo skill.
+
+20+ 8/2 +8 = 12+20 = 32, more than vanilla by 12 dmg
+
+now if second throw, then 32/2 = 16, still more than vanilla by 6 dmg
+
+Stun radius 4 to 5
+
+Thermal Detonator 
+60 +Demo Skill Rank = total dmg
+increased from 4.0 to 6.0 radius
+
+Posion grenade
+
+damage from Average to Virulent
+from 4.0 to 5..0 radius
+
+Sonic now has +Demo Skill Rank
+radius to 5.0 from 4.0
+now can affect dexterity on second throw, which may or may not stack, remains unknown. 
+
+adhesive grenade increased to 5.0
+
+cryoban gren increased to 5.0
++Demo Skill rank 
+first throw, 25% movement decrease
+all other throws 10% movement decrease
+
+Plasma gren
++Demo
+increased to 5.0 radius
+
+Ion 
+Demo SKill adds damage
+increased to 5.0 radius

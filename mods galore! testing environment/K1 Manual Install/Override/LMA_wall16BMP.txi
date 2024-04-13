@@ -1,0 +1,4 @@
+isbumpmap 1
+bumpmapscale 1.2
+downsamplemax 0
+mipmap 0

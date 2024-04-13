@@ -1,0 +1,11 @@
+<mod>=Duncan Oeil-mort sur Manaan
+<kotor>=kotor1
+<author>=Seamhainn
+<version>=1.0
+<readme>=readme.txt
+<modfile>=,k_pman_duncan01.ncs,override\
+<modfile>=,k_spwn_duncan.ncs,override\
+<modfile>=,man26_reparg.dlg,override\
+<modfile>=,man26ad_duncan.dlg,override\
+<supportfile>=readme.txt
+<supportfile>=deadeye_man.kmm

@@ -1,0 +1,7 @@
+#MADEWITHKLR
+clamp 1 
+mipmap 0 
+downsamplemax 0 
+downsamplemin 0 
+filter 0
+envmaptexture CM_SpecMap

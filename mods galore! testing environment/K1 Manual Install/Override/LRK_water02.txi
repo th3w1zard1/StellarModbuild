@@ -1,0 +1,3 @@
+bumpyshinytexture CM_BlackRakata
+bumpmaptexture LRK_water02B 
+wateralpha 0.5

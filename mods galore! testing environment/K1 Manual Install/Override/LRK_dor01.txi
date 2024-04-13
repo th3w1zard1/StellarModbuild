@@ -1,0 +1,2 @@
+compresstexture 0
+

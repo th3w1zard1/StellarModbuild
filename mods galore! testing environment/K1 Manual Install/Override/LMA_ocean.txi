@@ -1,0 +1,3 @@
+envmaptexture CM_mansea
+bumpmaptexture LMA_oceanBMP 
+wateralpha 1

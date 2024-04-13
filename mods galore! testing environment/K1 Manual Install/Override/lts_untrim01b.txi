@@ -1,0 +1,2 @@
+isbumpmap 1
+bumpmapscale 1.3

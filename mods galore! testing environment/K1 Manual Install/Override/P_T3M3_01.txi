@@ -1,0 +1,5 @@
+#MADEWITHKLR
+bumpyshinytexture mycube
+bumpmaptexture P_T3M3_01_n
+bumpmapscaling 3
+isspecularbumpmap1

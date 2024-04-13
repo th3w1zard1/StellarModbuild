@@ -1,0 +1,5 @@
+bumpyshinytexture CM_raktempb
+bumpmaptexture LUN_wll05b
+
+
+

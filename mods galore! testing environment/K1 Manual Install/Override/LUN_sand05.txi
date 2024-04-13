@@ -1,0 +1,7 @@
+bumpyshinytexture CM_unwbeach
+bumpmaptexture LUN_sand05b
+
+
+
+
+

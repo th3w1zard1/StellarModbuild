@@ -1,0 +1,26 @@
+blending additive
+decal 1
+mipmap 0
+proceduretype arturo
+channelscale 1
+1
+1
+1
+1
+
+channeltranslate 1
+1
+1
+1
+1
+
+distort 1
+arturowidth 16
+arturoheight 16
+distortionamplitude 2
+speed 6
+
+defaultheight 32
+defaultwidth 32
+
+downsamplemax 0

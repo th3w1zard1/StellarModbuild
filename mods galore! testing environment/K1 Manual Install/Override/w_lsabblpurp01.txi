@@ -1,0 +1,6 @@
+alpha blending 1.0
+blending additive
+decal 1
+defaultwidth 512
+defaultheight 256
+

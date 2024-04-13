@@ -1,0 +1,9 @@
+envmaptexture cm_bright
+proceduretype cycle
+#defaultwidth 128
+#defaultheight 128
+numx 4
+numy 2
+fps  0.5 
+#blending additive
+#decal 1

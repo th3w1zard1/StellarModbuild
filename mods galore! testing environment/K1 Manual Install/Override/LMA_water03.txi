@@ -1,0 +1,3 @@
+wateralpha 0.3
+bumpyshinytexture CM_MRPOOL
+bumpmaptexture LMA_Water01B

@@ -1,0 +1,3 @@
+wateralpha 0.40
+bumpyshinytexture CM_Caves
+bumpmaptexture LKO_Water01B

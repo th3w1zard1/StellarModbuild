@@ -1,0 +1,7 @@
+blending additive
+proceduretype cycle
+numx 4
+numy 4
+fps 12
+
+decal 1

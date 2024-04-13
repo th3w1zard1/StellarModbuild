@@ -1,0 +1,3 @@
+bumpyshinytexture CM_unwbeach
+bumpmaptexture LUN_Water01B 
+wateralpha 1

@@ -1,0 +1,2 @@
+downsamplemax 0
+mipmap 0
