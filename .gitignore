@@ -1,6 +1,8 @@
 *.tpc
 *.tga
 *.bif
+*.rim
+*.wav
 mods galore\! testing environment/K1 Manual Install/utils
 mods galore\! testing environment/K1 Manual Install/TexturePacks
 mods galore\! testing environment/K1 Manual Install/swupdate.exe
@@ -92,3 +94,11 @@ mods galore\! testing environment/K1 Manual Install/32370_install.vdf
 mods galore\! testing environment/K1 Manual Install/AR_ERROR.LOG
 mods galore\! testing environment/K1 Manual Install/32370_install.vdf
 mods galore\! testing environment/K1 Manual Install/binkw32.dll
+mods galore\! testing environment/K1 Manual Install/swkotor.bak.exe
+mods galore\! testing environment/K1 Manual Install/swkotor.exe.Backup
+mods galore\! testing environment/K1 Manual Install/swkotorb.undo1
+mods galore\! testing environment/K1 Manual Install/swkotorb.undo2
+mods galore\! testing environment/K1 Manual Install/swkotorb.undo3
+mods galore\! testing environment/K1 Manual Install/swkotorb.undo4
+mods galore\! testing environment/K1 Manual Install/swkotorc.undom1
+mods galore\! testing environment/K1 Manual Install/swkotorc.undom2
